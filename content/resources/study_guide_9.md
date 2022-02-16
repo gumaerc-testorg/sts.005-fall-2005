@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource provides information about  study guide no. 9.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-005-disease-and-society-in-america-fall-2005/9e7f361d0e9bdea7dc047f6c09b55775_study_guide_9.pdf
+file: /media/courses/sts-005-disease-and-society-in-america-fall-2005/9e7f361d0e9bdea7dc047f6c09b55775_study_guide_9.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: study_guide_9.pdf
 uid: 9e7f361d-0e9b-dea7-dc04-7f6c09b55775
