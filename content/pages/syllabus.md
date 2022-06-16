@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about desciption of the course, requirements,
+  recitation sections, weekly writing exercises, papers and grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
