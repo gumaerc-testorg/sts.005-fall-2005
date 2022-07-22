@@ -5,6 +5,7 @@ file: /courses/sts-005-disease-and-society-in-america-fall-2005/b1087cc27313b8ed
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week9.pdf
 uid: b1087cc2-7313-b8ed-68bc-1e18d645b0bd
 ---
 This resource provides information about week 9 assignments.
-

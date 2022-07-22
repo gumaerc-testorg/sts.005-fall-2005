@@ -5,6 +5,7 @@ file: /courses/sts-005-disease-and-society-in-america-fall-2005/8d4d0661b320c8f2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week11.pdf
 uid: 8d4d0661-b320-c8f2-999e-508fa324196d
 ---
 This resource provides information about week 11 assignments.
-

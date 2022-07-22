@@ -5,6 +5,7 @@ file: /courses/sts-005-disease-and-society-in-america-fall-2005/e69f0db529db884b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week13.pdf
 uid: e69f0db5-29db-884b-1a5e-38c7561e18ef
 ---
 This resource provides information about week 13 assignments.
-

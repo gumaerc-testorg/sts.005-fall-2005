@@ -6,6 +6,7 @@ file: /courses/sts-005-disease-and-society-in-america-fall-2005/4ca419cd7576758e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hel_dis_bef_col.pdf
 uid: 4ca419cd-7576-758e-88bd-1537190f0ec8
 ---
 This resource provides information origins of Americans, overview of American societies, health of Americans.
-

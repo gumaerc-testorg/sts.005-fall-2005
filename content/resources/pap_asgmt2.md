@@ -5,6 +5,7 @@ file: /courses/sts-005-disease-and-society-in-america-fall-2005/426729eccd8bb317
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pap_asgmt2.pdf
 uid: 426729ec-cd8b-b317-beac-733831e55950
 ---
 This resource provides information about paper 2 assignments.
-

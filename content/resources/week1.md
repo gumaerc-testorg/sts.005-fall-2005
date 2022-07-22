@@ -5,6 +5,7 @@ file: /courses/sts-005-disease-and-society-in-america-fall-2005/c9b277def20a8716
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: week1.pdf
 uid: c9b277de-f20a-8716-5fb2-0304dc527706
 ---
 This resource provides information about week 1 assignments.
-

@@ -7,6 +7,7 @@ file: /courses/sts-005-disease-and-society-in-america-fall-2005/0ff67be819fa61b6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec_12.pdf
 uid: 0ff67be8-19fa-61b6-5a47-db1a3ae5d91d
 ---
 This resource provide information about european precedents, colonial medicine: diversity and heterogeneity, colonial theory and therapeutics, efficacy?, medicine and efficacy in 2005: what has changed, what remains the same?
-

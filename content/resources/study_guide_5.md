@@ -4,6 +4,7 @@ description: This resource provides information about  study guide no. 5.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/41367fe96676bec065dea5fa92d365ac_study_guide_5.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: study_guide_5.pdf
 uid: 41367fe9-6676-bec0-65de-a5fa92d365ac
 ---
 This resource provides information about  study guide no. 5.
-

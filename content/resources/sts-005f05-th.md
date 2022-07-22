@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: An image listing many human diseases and below, a raccoon.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-005f05-th.jpg
 uid: 58c70771-1e04-4541-ca60-1322a73f9767
 ---
 New image Upload
-

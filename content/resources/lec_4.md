@@ -7,6 +7,7 @@ file: /courses/sts-005-disease-and-society-in-america-fall-2005/3d9434932e201d5f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec_4.pdf
 uid: 3d943493-2e20-1d5f-4df2-43b27407c096
 ---
 This resource provides information about health conditions in early modern Europe, colonization and health, demographic trajectories, health disparities, mortality and culture: providence and faith.
-

@@ -7,6 +7,7 @@ file: /courses/sts-005-disease-and-society-in-america-fall-2005/01f1efef3bb3032a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: intro_dis_med.pdf
 uid: 01f1efef-3bb3-032a-fd20-eb949596234a
 ---
 This resource provides information about disease and medicine in 1900 vs. 2000, what is a disease?, responses to disease: much that is odd and unexpected, our goal: understand the changing world of disease and medicine.
-

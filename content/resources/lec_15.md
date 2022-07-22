@@ -7,6 +7,7 @@ file: /courses/sts-005-disease-and-society-in-america-fall-2005/efcf71ac4f2f1a52
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec_15.pdf
 uid: efcf71ac-4f2f-1a52-3e0c-1d4a2abb2b01
 ---
 This resource provides information about what is the medical profession?, the colonial profession?, colonial education and licensure, medical education in the 1800s, prospects for change?
-

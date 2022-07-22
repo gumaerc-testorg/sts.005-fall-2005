@@ -7,6 +7,7 @@ file: /courses/sts-005-disease-and-society-in-america-fall-2005/30dc0dd9eb0bbc8d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec_6.pdf
 uid: 30dc0dd9-eb0b-bc8d-46d1-211a8039bdda
 ---
 This resource provides information about health environments, urbanization, health of cities, epidemiology 101, disease theories in the 19th century, responding to epidemics, health and environments: Hurricane Katrina.
-
