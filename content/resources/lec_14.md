@@ -4,6 +4,7 @@ description: This resource provides information about heroic therapy, emergence 
   therapeutic alternatives, medical marketplace, sources of stability and change in
   therapeutic systems?, disease change and therapeutic change.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/5f7b9a9758d6b8a1b5d1a0335d888f76_lec_14.pdf
+file_size: 46249
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information about week 4 assignments.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/6fd543e9756f28e52790d3714ba61ec1_week4.pdf
+file_size: 50368
 file_type: application/pdf
 learning_resource_types:
 - Assignments

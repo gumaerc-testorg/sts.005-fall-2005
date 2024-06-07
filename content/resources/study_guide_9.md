@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information about  study guide no. 9.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/9e7f361d0e9bdea7dc047f6c09b55775_study_guide_9.pdf
+file_size: 82227
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,7 @@ description: 'This resource provides information about population growth, causes
   the rise (?) of chronic diseases, implications for health policy, is the transition
   reversible?'
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/84f442c7fd1d3566a3653c076e28ae60_lec_8.pdf
+file_size: 51181
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
