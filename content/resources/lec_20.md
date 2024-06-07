@@ -5,6 +5,7 @@ description: 'This resource provides information about miasmatism, epidemics, an
   theories of contagionism, the rise of germ theory, germ theory and therapeutics,
   germ theory and culture: the gospel of germs.'
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/e54dde841549bd78bfe6acb58abc370b_lec_20.pdf
+file_size: 48761
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information about weekly assignments.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/f9d79604bf1e5bea865bbdc00d3d9f3e_intro.pdf
+file_size: 47149
 file_type: application/pdf
 learning_resource_types:
 - Assignments
