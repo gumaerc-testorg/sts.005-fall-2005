@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provides information about week 3 assignments.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/f6e645f341eef823a7b77ade258aea1e_week3.pdf
+file_size: 49567
 file_type: application/pdf
 learning_resource_types:
 - Assignments

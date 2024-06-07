@@ -4,6 +4,7 @@ description: This resource provides information about technology, transformation
   and tensions, specialists and generalists in the 19th century, rise of specialists,
   specialists and sensions, reforms in education and licensing, consequences.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/55e4a55af7ec3876bffe4b078aa2edb1_lec_23.pdf
+file_size: 48478
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource provides information about what is the medical profes
   the colonial profession?, colonial education and licensure, medical education in
   the 1800s, prospects for change?
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/efcf71ac4f2f1a523e0c1d4a2abb2b01_lec_15.pdf
+file_size: 47028
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

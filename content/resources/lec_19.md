@@ -4,6 +4,7 @@ description: This resource provides information about puzzles from history of ps
   surgery, origins of surgery, surgery c. 1800, surprising histories of anesthesia,  surgery
   after anesthesia.
 file: /courses/sts-005-disease-and-society-in-america-fall-2005/96b8538749e5810b8a60650061e50485_lec_19.pdf
+file_size: 62873
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
