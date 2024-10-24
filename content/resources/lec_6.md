@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource provides information about health environments, urbanization,
   health of cities, epidemiology 101, disease theories in the 19th century, responding
   to epidemics, health and environments: Hurricane Katrina.'
-file: /courses/sts-005-disease-and-society-in-america-fall-2005/30dc0dd9eb0bbc8d46d1211a8039bdda_lec_6.pdf
+file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/30dc0dd9eb0bbc8d46d1211a8039bdda_lec_6.pdf
 file_size: 61551
 file_type: application/pdf
 learning_resource_types:

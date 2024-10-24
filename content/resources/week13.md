@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about week 13 assignments.
-file: /courses/sts-005-disease-and-society-in-america-fall-2005/e69f0db529db884b1a5e38c7561e18ef_week13.pdf
+file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/e69f0db529db884b1a5e38c7561e18ef_week13.pdf
 file_size: 51115
 file_type: application/pdf
 learning_resource_types:

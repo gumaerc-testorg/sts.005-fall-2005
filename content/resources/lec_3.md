@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource provides information about disease before Columbus, encounter
   and devastation, how many died?, why did they die?, health disparities today: biological
   and social explanations.'
-file: /courses/sts-005-disease-and-society-in-america-fall-2005/8163e7537653bb295888f868a9915c22_lec_3.pdf
+file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/8163e7537653bb295888f868a9915c22_lec_3.pdf
 file_size: 61583
 file_type: application/pdf
 learning_resource_types:

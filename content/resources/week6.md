@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about week 6 assignments.
-file: /courses/sts-005-disease-and-society-in-america-fall-2005/b364dd4e6974943b23fbf316d4eedf66_week6.pdf
+file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/b364dd4e6974943b23fbf316d4eedf66_week6.pdf
 file_size: 50119
 file_type: application/pdf
 learning_resource_types:

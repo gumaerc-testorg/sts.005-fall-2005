@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about week 2 assignments.
-file: /courses/sts-005-disease-and-society-in-america-fall-2005/325e7cf27b896edf1e6f641fddbcf8eb_week2.pdf
+file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/325e7cf27b896edf1e6f641fddbcf8eb_week2.pdf
 file_size: 67598
 file_type: application/pdf
 learning_resource_types:
