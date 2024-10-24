@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about health intuition, colonial perspectives,
   disease theory in colonial america, were environments dangerous? modern perspectives,
   race, environment, and disease.
-file: /courses/sts-005-disease-and-society-in-america-fall-2005/52361e33f03166a3ccb14558714bf519_lec_5.pdf
+file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/52361e33f03166a3ccb14558714bf519_lec_5.pdf
 file_size: 82010
 file_type: application/pdf
 learning_resource_types:

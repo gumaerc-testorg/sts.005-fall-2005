@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about  study guide no. 5.
-file: /courses/sts-005-disease-and-society-in-america-fall-2005/41367fe96676bec065dea5fa92d365ac_study_guide_5.pdf
+file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/41367fe96676bec065dea5fa92d365ac_study_guide_5.pdf
 file_size: 50186
 file_type: application/pdf
 learning_resource_types: []

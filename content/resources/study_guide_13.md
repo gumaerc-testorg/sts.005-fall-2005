@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about  study guide no. 13.
-file: /courses/sts-005-disease-and-society-in-america-fall-2005/07d5282c9ec3d0db7f69f1b43e9b1017_study_guide_13.pdf
+file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/07d5282c9ec3d0db7f69f1b43e9b1017_study_guide_13.pdf
 file_size: 82849
 file_type: application/pdf
 learning_resource_types: []
