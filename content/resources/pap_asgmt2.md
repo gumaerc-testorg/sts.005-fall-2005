@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about paper 2 assignments.
-file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/426729eccd8bb317beac733831e55950_pap_asgmt2.pdf
+file: /courses/sts-005-disease-and-society-in-america-fall-2005/426729eccd8bb317beac733831e55950_pap_asgmt2.pdf
 file_size: 43852
 file_type: application/pdf
 learning_resource_types:

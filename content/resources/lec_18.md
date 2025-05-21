@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about mental health in colonial america,
   insanity and social disorder, confinement and asylums, asylum therapeutics, freud
   and psychoanalysis, antipsychiatry.
-file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/58dec938d6fdbf522d605e54d9e0d999_lec_18.pdf
+file: /courses/sts-005-disease-and-society-in-america-fall-2005/58dec938d6fdbf522d605e54d9e0d999_lec_18.pdf
 file_size: 61865
 file_type: application/pdf
 learning_resource_types:

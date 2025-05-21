@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about week 10 assignments.
-file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/5d186a0af0e6396912626c04c49b4bb6_week10.pdf
+file: /courses/sts-005-disease-and-society-in-america-fall-2005/5d186a0af0e6396912626c04c49b4bb6_week10.pdf
 file_size: 52861
 file_type: application/pdf
 learning_resource_types:

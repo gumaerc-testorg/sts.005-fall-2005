@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about week 7 assignments.
-file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/eace0b7dd267b183b70483db6865041c_week7.pdf
+file: /courses/sts-005-disease-and-society-in-america-fall-2005/eace0b7dd267b183b70483db6865041c_week7.pdf
 file_size: 64630
 file_type: application/pdf
 learning_resource_types:
