@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about week 11 assignments.
-file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/8d4d0661b320c8f2999e508fa324196d_week11.pdf
+file: /courses/sts-005-disease-and-society-in-america-fall-2005/8d4d0661b320c8f2999e508fa324196d_week11.pdf
 file_size: 38450
 file_type: application/pdf
 learning_resource_types:
