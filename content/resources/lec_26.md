@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information about changing patterns of disease,
   will medicine be able to preserve health, what role for the medical profession?
-file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/426f3b812de11f2d842a295da497d2f4_lec_26.pdf
+file: /courses/sts-005-disease-and-society-in-america-fall-2005/426f3b812de11f2d842a295da497d2f4_lec_26.pdf
 file_size: 45233
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about prevalence of technology, medical
   technology into the 19th century, therapeutic technology in the 20th century, diagnostic
   Technology in the 20th century, impact of technology, transformation of hospitals.
-file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/d66fc17af6c26f7faeeb26b57db63401_lec_22.pdf
+file: /courses/sts-005-disease-and-society-in-america-fall-2005/d66fc17af6c26f7faeeb26b57db63401_lec_22.pdf
 file_size: 49662
 file_type: application/pdf
 learning_resource_types:
