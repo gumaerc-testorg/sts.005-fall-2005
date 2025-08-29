@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource provides information about health conditions in early
   modern Europe, colonization and health, demographic trajectories, health disparities,
   mortality and culture: providence and faith.'
-file: /courses/sts-005-disease-and-society-in-america-fall-2005/3d9434932e201d5f4df243b27407c096_lec_4.pdf
+file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/3d9434932e201d5f4df243b27407c096_lec_4.pdf
 file_size: 47295
 file_type: application/pdf
 learning_resource_types:

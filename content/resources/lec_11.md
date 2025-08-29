@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource provides information about understanding past world views,
   the role of medicine, ?primitive? medicine: paleolithic America, accounts of indian
   medicine, efficacy?'
-file: /courses/sts-005-disease-and-society-in-america-fall-2005/f061666fe1bbbf940343a806a9957b2b_lec_11.pdf
+file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/f061666fe1bbbf940343a806a9957b2b_lec_11.pdf
 file_size: 46481
 file_type: application/pdf
 learning_resource_types:

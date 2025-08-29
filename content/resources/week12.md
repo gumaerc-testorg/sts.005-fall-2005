@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information about week 12 assignments.
-file: /courses/sts-005-disease-and-society-in-america-fall-2005/b963a0e50e18ae0fb62a6473a727fd7a_week12.pdf
+file: /ol-ocw-studio-app/courses/sts-005-disease-and-society-in-america-fall-2005/b963a0e50e18ae0fb62a6473a727fd7a_week12.pdf
 file_size: 48570
 file_type: application/pdf
 learning_resource_types:
