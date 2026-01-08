@@ -108,7 +108,7 @@ Medicine in the 18th century
 
 Blake, John B. "The Inoculation Controversy in Boston, 1721-1722." *New England Quarterly* 25 (1952): 489-506.
 
-Buchan, William. Domestic Medicine Or, A Treatise on the Prevention and Cure of Diseases By Regimen and Simple Medicines. Exeter: J. B. Williams, 1785. Excerpts: Preface, Introduction, Diseases of the Studious, Knowledge and Cure of Diseases, Consumptions, Smallpox & Inoculation, Bleeding. A full text version of {{% resource_link "c4952bd1-cab4-4f04-b4ae-0c5c92b9a639" "Domestic Medicine" %}} is available.
+Buchan, William. Domestic Medicine Or, A Treatise on the Prevention and Cure of Diseases By Regimen and Simple Medicines. Exeter: J. B. Williams, 1785. Excerpts: Preface, Introduction, Diseases of the Studious, Knowledge and Cure of Diseases, Consumptions, Smallpox & Inoculation, Bleeding. A full text version of [Domestic Medicine](http://www.americanrevolution.org/medicine.html) is available.
 
 Kopperman, Paul. "'Venerate the Lancet': Benjamin Rush's Yellow Fever Therapy in Context." *Bulletin of the History of Medicine* 78 (2004): 539-574.
 
@@ -182,7 +182,7 @@ Public Health Revisited
 
 Treichler, Paula. "AIDS, Homophobia, and Biomedical Discourse: An Epidemic of Signification." *Cultural Studies* 1 (October 1987): 263-305.
 
-Specter, Michael. "{{% resource_link "21c580ed-4100-404b-aa27-3f7b569b4704" "Higher Risk" %}}." *New Yorker* 81 (23 May 2005). (Web version)
+Specter, Michael. "[Higher Risk](http://www.newyorker.com/archive/2005/05/23/050523fa_fact)." *New Yorker* 81 (23 May 2005). (Web version)
 
 Jones, D. S., and A. M. Brandt. "AIDS, Historical." In *Encyclopedia of Microbiology.* Edited by Joshua Lederberg. 2nd ed. Vol 1. San Diego, CA: Academic Press, 2000, pp. 104-115. ISBN: 0122268016.
 

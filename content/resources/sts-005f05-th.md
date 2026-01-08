@@ -6,8 +6,7 @@ file_size: 8766
 file_type: image/jpeg
 image_metadata:
   caption: "More than two-thirds of emerging human diseases have animal origins. (Image\
-    \ courtesy of\_{{% resource_link \"12905948-764d-49b5-b92f-5ee79d7eb85e\" \"U.S.\
-    \ Geological Survey\" %}}.)"
+    \ courtesy of\_[U.S. Geological Survey](http://www.usgs.gov/).)"
   credit: ''
   image-alt: An image listing many human diseases and below, a raccoon.
 learning_resource_types: []
